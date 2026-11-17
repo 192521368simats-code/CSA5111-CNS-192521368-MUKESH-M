@@ -98,3 +98,15 @@ public class HillCipherAttack {
         sc.close();
     }
 }
+
+output:
+Enter Plaintext Matrix (2x2):
+5 6
+7 9
+Enter Ciphertext Matrix (2x2):
+6 8
+5 3
+
+Recovered Key Matrix:
+8 10 
+8 21 
