@@ -53,4 +53,10 @@ public class OneTimePad {
         System.out.println("Decrypted Text: " + decrypted);
     }
 }
+
+output:
+Plaintext: HELLO
+Key: 13 0 10 21 4 
+Ciphertext: UEVGS
+Decrypted Text: HELLO
  
