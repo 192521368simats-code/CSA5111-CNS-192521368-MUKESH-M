@@ -61,3 +61,26 @@ public class SignatureComparison {
                 MessageDigest.isEqual(rsaSig1, rsaSig2));
     }
 }
+
+output:
+DSA Signature 1: MDwCHDuiYDk4cHgQMqwHKJbmFeTGbh4C/2g8z056Fb8CHCTNOVgCCQRyWM1mj9rXvs5yK7/k4jWIiLgNiCQ=
+DSA Signature 2: MD0CHDQcKEV7X/M1rO9XGPxRYaq4Dr6mgpZ6i4jPkNMCHQCV4jfXjrA28uM8H8Ec2gKTLtbwp6Q4CN/wDgcN
+DSA Signatures Same: false
+
+RSA Signature 1: lMPq52LkLJCADnEDRp2pVUFR77Om/LGtPy9u+5x8h3OyGguzKT6Jh2bXZG4V4ioMcA+33E2cy17mXOf417Knq6ZQQoVVUad9y0nZlDvqqOLzprXo4NW8p61aX+FbdHxvg269r8vmIiNWUhL7vsfsW13VB5gBYB5R7q8eyJ4yNwUisiEu1/P/KEvYDEYSe0TN+GYsBpUIwCLWJ+/cubQnhTqmYaS96POP1sj5EQ3irik1h/5t7PVYtS5GzmiO27pi2zYCDewQYubQ95y70sPkr8WcVKAQHwB2/6TmYPd4lvYbPRaZoPs6ooFGbVedYTMZh6JZG8vMQBy8HCQsYY513g==
+RSA Signature 2: lMPq52LkLJCADnEDRp2pVUFR77Om/LGtPy9u+5x8h3OyGguzKT6Jh2bXZG4V4ioMcA+33E2cy17mXOf417Knq6ZQQoVVUad9y0nZlDvqqOLzprXo4NW8p61aX+FbdHxvg269r8vmIiNWUhL7vsfsW13VB5gBYB5R7q8eyJ4yNwUisiEu1/P/KEvYDEYSe0TN+GYsBpUIwCLWJ+/cubQnhTqmYaS96POP1sj5EQ3irik1h/5t7PVYtS5GzmiO27pi2zYCDewQYubQ95y70sPkr8WcVKAQHwB2/6TmYPd4lvYbPRaZoPs6ooFGbVedYTMZh6JZG8vMQBy8HCQsYY513g==
+RSA Signatures Same: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
