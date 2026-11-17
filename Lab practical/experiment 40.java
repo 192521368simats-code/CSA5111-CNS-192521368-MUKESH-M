@@ -147,4 +147,48 @@ public class FrequencyAttack {
         sc.close();
     }
 }
+
+output:
+MONOALPHABETIC SUBSTITUTION CIPHER
+Enter ciphertext: qwertyuioplkj
+How many possible plaintexts do you want? 10
+
+TOP 10 POSSIBLE PLAINTEXTS:
+
+1. sqingrcojbthe
+Score: 16.29402307692308
+
+2. jvozmasdtherc
+Score: 15.924284615384622
+
+3. snwithexrdagb
+Score: 15.093484615384618
+
+4. mwntherjlpxbv
+Score: 13.521023076923084
+
+5. vlyzinmathepu
+Score: 13.394284615384619
+
+6. csqbythergfmj
+Score: 13.374023076923079
+
+7. qkgtiondjxmrv
+Score: 11.135561538461538
+
+8. muthenjlciswa
+Score: 10.73348461538462
+
+9. rcsthenwmxaki
+Score: 10.727484615384624
+
+10. gqponiheruvks
+Score: 9.155561538461537
+
+
+
+
+
+
+
  
