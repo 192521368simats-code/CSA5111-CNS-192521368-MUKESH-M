@@ -111,4 +111,18 @@ public class AdditiveCipherAttack {
         sc.close();
     }
 }
- 
+ output:
+ Enter ciphertext: yogeshwaran
+Enter number of top results: 10
+
+Top Possible Plaintexts:
+1. YOGESHWARAN
+2. CSKIWLAEVER
+3. LBTRFUJNENA
+4. KASQETIMDMZ
+5. UKCAODSWNWJ
+6. OEWUIXMQHQD
+7. ZPHFTIXBSBO
+8. GWOMAPEIZIV
+9. SIAYMBQULUH
+10. NDVTHWLPGPC
