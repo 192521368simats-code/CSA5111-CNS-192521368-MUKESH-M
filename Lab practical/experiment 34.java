@@ -107,3 +107,19 @@ public class EncryptionModes {
         process("CFB", key, iv, plaintext);
     }
 }
+
+output: 
+
+original Message: HELLO WORLD
+
+ECB Mode
+Encrypted: 1qML8cRrK9g+8u6J6wuEEw==
+Decrypted: HELLO WORLD
+
+CBC Mode
+Encrypted: iqwO4VypmkOWqqp//1UzPQ==
+Decrypted: HELLO WORLD
+
+CFB Mode
+Encrypted: tsX+39f4yBymVS3CIceF/A==
+Decrypted: HELLO WORLD
