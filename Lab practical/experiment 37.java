@@ -85,3 +85,22 @@ public class FrequencyAttack {
         sc.close();
     }
 }
+
+output:
+nter ciphertext: hyrtui poiuytr
+Enter number of possible plaintexts: 13
+
+Top 13 Possible Plaintexts:
+1. HYRTUI POIUYTR
+2. SJCEFT AZTFJEC
+3. RIBDES ZYSEIDB
+4. NEXZAO VUOAEZX
+5. ARKMNB IHBNRMK
+6. GXQSTH ONHTXSQ
+7. BSLNOC JICOSNL
+8. DUNPQE LKEQUPN
+9. ULEGHV CBVHLGE
+10. EVOQRF MLFRVQO
+11. WNGIJX EDXJNIG
+12. FWPRSG NMGSWRP
+13. QHACDR YXRDHCA
