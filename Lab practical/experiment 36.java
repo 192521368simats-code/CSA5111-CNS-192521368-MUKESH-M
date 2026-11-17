@@ -90,3 +90,11 @@ public class AffineCipher {
         sc.close();
     }
 }
+
+output:
+Enter plaintext: hukesh
+Enter key a: 5
+Enter key b: 8
+Original Text: HUKESH
+Encrypted Text: REGCUR
+Decrypted Text: HUKESH
